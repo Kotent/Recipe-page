@@ -22,8 +22,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Kotent/Recipe-page)
-- Live Site URL: [Add live site URL here](https://resonant-brioche-5b047e.netlify.app/)
+- Solution URL: [https://github.com/Kotent/Recipe-page]
+- Live Site URL: [https://resonant-brioche-5b047e.netlify.app/]
 
 ## My process
 
@@ -34,21 +34,10 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - Flexbox
 
 
-### AI Collaboration
-
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
-
 ## Author
 
 - Website - Akota Mani
 - Frontend Mentor -(https://github.com/Kotent)
 - Twitter - (https://x.com/akotaosagie?s=21)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
